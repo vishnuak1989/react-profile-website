@@ -4,12 +4,12 @@ const career=()=>(
             <div className="career">
             <h1>Career Overview</h1>
             <ul>
-              <h3><a>Brillio Techonolgies</a></h3>
-              <p>Senior Analyst </p>
-              <h3><a>CCS Techonolgies</a></h3>
-              <p>Associate Consultant</p>
-              <h3><a>Mascot Technrib Pvt Ltd</a></h3>
-              <p>Junior Consultant</p>
+              <h3><a>Company1</a></h3>
+              <p>Senior Developer </p>
+              <h3><a>Company2</a></h3>
+              <p>Associate Developer</p>
+              <h3><a>Company3</a></h3>
+              <p>Junior Developer</p>
             </ul>
           </div>
         )
